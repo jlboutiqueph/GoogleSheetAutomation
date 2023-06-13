@@ -153,4 +153,7 @@ function Insert20Rows() {
   spreadsheet.getActiveSheet().insertRowsAfter(spreadsheet.getActiveSheet().getMaxRows(), 20);
 };
 
-
+function test() {
+var x;
+  
+};
